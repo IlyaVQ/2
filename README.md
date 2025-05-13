@@ -22,5 +22,4 @@
 
 </details>
 
-## Ссылка на сайт:
-https://ia-stepanov.github.io/how-to-learn/
+
